@@ -8,8 +8,20 @@
 
 .jumbotron{
     background-image: url(img/jumbo-bg.png);
+    background-size: cover;
+    
+       
 }
 
 .jumbotron img{
     width: 15rem;
+}
+
+.ms_mt{
+    margin-top: 400px;
+    
+}
+
+.ms_mb{
+    margin-bottom: 100px;
 }
