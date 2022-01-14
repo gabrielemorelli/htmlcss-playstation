@@ -1,0 +1,15 @@
+.header-top{
+    background-color: black;
+}
+
+.header-top-logo{
+    width: 5rem;
+}
+
+.jumbotron{
+    background-image: url(img/jumbo-bg.png);
+}
+
+.jumbotron img{
+    width: 15rem;
+}
