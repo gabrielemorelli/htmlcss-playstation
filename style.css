@@ -1,3 +1,4 @@
+/*header*/
 .header-top{
     background-color: black;
 }
@@ -5,23 +6,127 @@
 .header-top-logo{
     width: 5rem;
 }
+/*header*/
 
+/*jumbotron*/
 .jumbotron{
     background-image: url(img/jumbo-bg.png);
     background-size: cover;
-    
-       
+    background-position: center;
 }
 
 .jumbotron img{
     width: 15rem;
 }
 
-.ms_mt{
+.jumbotron .ms_mt{
     margin-top: 400px;
-    
 }
 
-.ms_mb{
+.jumbotron .ms_mb{
     margin-bottom: 100px;
 }
+/*jumbotron*/
+
+/*section-center*/
+.center{
+    background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.center img{
+width: 15rem;
+}
+
+
+.center h2{
+    margin-bottom: 30px;
+    font-size: 50px;
+}
+
+.center .ms_mb{
+    margin-bottom: 150px;
+}
+
+.center button{
+    margin-top: 50px;
+}
+
+/*section-center*/
+
+/*section-nuove uscite*/
+
+.nuove-uscite{
+    background-color: black;
+}
+
+.nuove-uscite .title h2{
+    padding:  20px 0px;
+}
+
+/*section-nuove uscite*/
+
+/*section play-4*/
+
+.play-4 .title h2{
+margin-bottom: 20px;
+}
+
+.play-4 .sottotitolo h3{
+    margin-bottom: 20px;
+    font-size: 50px;
+}
+
+.play-4 button{
+    margin-bottom: 50px;
+}
+
+/*section play-4*/
+
+/*section playststion-plus*/
+
+.playstation-plus{
+    background-color: gray;
+}
+
+.ms_img{
+    width: 20rem;
+    margin-top: 100px;
+}
+
+.playstation-plus p{
+    padding: 20px 0;
+}
+
+.playstation-plus .btn{
+    color: blue;
+}
+
+/*section playststion-plus*/
+
+/*section discount*/
+
+
+
+
+
+
+/*section discount*/
+
+/*section-playstation now*/
+
+.now{
+    background-color: rgb(1, 1, 22);
+}
+
+.ms_img{
+    width: 20rem;
+    margin-top: 150px;
+}
+
+.now p{
+    padding: 20px 0;
+}
+
+
