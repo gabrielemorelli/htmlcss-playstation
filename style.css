@@ -6,6 +6,13 @@
 .header-top-logo{
     width: 5rem;
 }
+
+ .search img{
+    width: 25px;
+    
+}
+
+
 /*header*/
 
 /*jumbotron*/
@@ -27,6 +34,30 @@
     margin-bottom: 100px;
 }
 /*jumbotron*/
+
+/*section-playstation*/
+
+.title{
+ margin-top: 100px;
+}
+
+.title h4{
+    color: blue;
+}
+
+.title p{
+    color: lightslategrey;
+}
+
+.border-1{
+border: 1px solid blue;
+margin-bottom: 50px;
+}
+
+.playstation .ms_opacity {
+    opacity: 0.5;
+}
+
 
 /*section-center*/
 .center{
@@ -166,3 +197,6 @@ footer .ms_mt{
     
 }
 
+.row-down img{
+    width: 100px;
+}
